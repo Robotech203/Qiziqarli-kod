@@ -1,0 +1,2 @@
+# Qiziqarli-kod
+Kerakli kodlar
